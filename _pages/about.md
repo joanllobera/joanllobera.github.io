@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is a draft website to organize my academic stuff. 
+This is a draft website. 
+
+
 
 For more info
 ------
