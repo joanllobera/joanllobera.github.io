@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is a draft website. 
 
+For the last 10 years, my main job interest has been to try to help VR work. This medium might change the world, for the better of worse. My everyday activities involve:
 
+* Academic Research, combining mainly software engineering  and behavioural experiments, with insights from cognitive sciences
+* I take care of several undergraduate courses related with, mainly, computer graphics and technical aspects of character animation 
+* I develop VR production projects upon request
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
