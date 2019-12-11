@@ -13,9 +13,9 @@ location: "Barcelona, Spain"
 
 3D Character animation is a tricky business. It involves complicated mathematics, handcrafted efforts, and a plethora of techniques. 
 In 2017 I was asked to organize a course to teach these topics. I came up with a syllabus that covers the following topics:
- 1. 3D Rotations (particularly using Quaternions and Axis Angle representations)
- 2. Direct and Inverse Kinematics (Gradient Descent, CCD, Fabrik)
- 3. Animations in a game engine (From Motion Builder to Unity3D)
+ 1. 3D Rotations 
+ 2. Direct and Inverse Kinematics 
+ 3. Animations in a game engine 
  4. Physics for animation in game engines
  
   There is also a fair amount of emphasis on practical aspects of programming, like:
@@ -23,14 +23,15 @@ In 2017 I was asked to organize a course to teach these topics. I came up with a
  * Improving programming habits, and documentation. This includes naming conventions, functionality encapsulation, and use of assembly libraries
 
 
-## 2. Syllabus and Deliveries
+## 2. Syllabus 
 You can find here all the materials used to teach a course lasting 15-16 weeks, with 4 hours or class per week.
  The course is organized in four blocks:
- 1. **3D Rotations**, using the following materials: 
- 2. **GIT and programming habits**, with all materials available [here](./anim-foundations/3Drotations)
- 3. Direct and Inverse Kinematics
- 4. Animation 
+ 1. **3D Rotations** , mainly on Quaternion and Axis Angle representations 
+ 2. **GIT and programming habits**, focusing on git flow methodology, writing conventions and functionality encapsulation
+ 3. Direct and Inverse Kinematics, addressing Gradient Descent, CCD and FABRIK 
+ 4. Animation, which includes an introduction to Motion Builder, to Unity3D's Mecanim and a review of physics for animation
  
+ The materials used are listed below:
  
 | Block 1            | 3D Rotations   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
@@ -41,12 +42,12 @@ You can find here all the materials used to teach a course lasting 15-16 weeks, 
 | 05    | [IntroProcAnimAndExercises.pdf](files/courses/animation-foundations/05.AnimationFoundations.IntroProcAnimAndExercises.pdf)        | Exercises                       |
 | 06    | [AnimationFoundations.Intro2Constraints.pdf](files/courses/animation-foundations/06.AnimationFoundations.Intro2Constraints.pdf)   | A first intro to constraints    |
  
+ ## 3. Deliveries
  
- 
- It is organized in three deliveries:
- 1.
- 2.
- 3.
+This course has three deliveries:
+ 1. **A library to control an articulated robot.** This requires implementing a Quaternion class and using it to move an articulated robot with direct kinematics. 
+ 2. **A library to control an octopus.** This requires implementing three IK methods using the Unity3D API and estimating which one is more useful for the problem at hand
+ 3. **Scoring a goal with the Magnus effect.** This requires transferring animations between characters, organizing animations in a state machine and implementing a simple physical effect in Unity3D.
  
  
  
