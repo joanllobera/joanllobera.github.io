@@ -25,8 +25,8 @@ location: "Barcelona, Spain"
 ### 1.2 Syllabus and Deliveries
 
  The course is organized in four blocks:
- 1. 3D Rotations
- 2. GIT and programming habits
+ 1. **3D Rotations**, with all materials available [here](./anim-foundations/3Drotations)
+ 2. **GIT and programming habits**, with all materials available [here](./anim-foundations/git)
  3. Direct and Inverse Kinematics
  4. Animation 
  
