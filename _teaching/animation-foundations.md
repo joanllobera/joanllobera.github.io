@@ -31,7 +31,7 @@ You can find here all the materials used to teach a course lasting 15-16 weeks, 
  
  | Entry            | Item   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
-| 01    | [Introduction.pdf](files/courses/animation-foundations/01.AnimationFoundations2019-20.Introduction.pdf)                           | A general introduction          |
+| 01    | [Introduction.pdf](files/01.AnimationFoundations2019-20.Introduction.pdf)                           | A general introduction          |
 | 02    | [Rotations_part1.pdf](files/courses/animation-foundations/02.AnimationFoundations.Rotations_part1.pdf)                            | First part of 3D rotations      |
 | 03    | [Rotations_part2.pdf](files/courses/animation-foundations/03.AnimationFoundations.Rotations_part2.pdf)                            | Second part of 3D rotations     |
 | 04    | [Axis_align.unitypackage](files/courses/animation-foundations/04.axis_align.unitypackage)                                         | A unity package for exercises   |
