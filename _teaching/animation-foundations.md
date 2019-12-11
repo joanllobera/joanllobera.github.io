@@ -8,9 +8,8 @@ date: 2019-09-15
 location: "Barcelona, Spain"
 ---
 
-## 1. Introduction
+## 1. Topics addressed
 
-### 1.1. Topics addressed
 
 3D Character animation is a tricky business. It involves complicated mathematics, handcrafted efforts, and a plethora of techniques. You can find here all the materials used to teach a course lasting 15-16 weeks, with 4 hours or class per week. It covers the following topics:
  * 3D Rotations (particularly using Quaternions and Axis Angle representations)
@@ -22,11 +21,11 @@ location: "Barcelona, Spain"
  * Improving the work habits, and documentation. This includes naming conventions, functionality encapsulation, and use of assembly libraries
 
 
-### 1.2 Syllabus and Deliveries
+## 2. Syllabus and Deliveries
 
  The course is organized in four blocks:
  1. **3D Rotations**, with all materials available [here](./anim-foundations/3Drotations)
- 2. **GIT and programming habits**, with all materials available [here](./anim-foundations/git)
+ 2. **GIT and programming habits**, with all materials available [here](./anim-foundations/3Drotations)
  3. Direct and Inverse Kinematics
  4. Animation 
  
@@ -39,7 +38,7 @@ location: "Barcelona, Spain"
  
  
  
-###  1.2 Requirements
+## 3. Requirements
 Despite they are re-introduced during the course, a student of this course would, ideally, have a decent understanding of the following topics:
 
 **Mathematics:**
@@ -54,7 +53,7 @@ Despite they are re-introduced during the course, a student of this course would
 
 If you want to follow this course but feel like you have gaps on these topics, you can follow the materials introduced here, since each of these topics are introduced briefly. However, you might need to find alternative sources to explore them more exhaustively for a full understanding of the aspects covered here.
 
-### 1.3 Credits
+## 4. Credits
 
 The materials here introduced have been used in a course delivered at the third year of a four year degree for computer scientists specialized in videogame development. The materials have been used during scholar years 2017-18, 2018-19 and 2019-20 at ENTI-UB ( [Escola de Noves Tecnologies Interactives](www.enti.cat) of [Universitat de Barcelona](www.ub.edu)).
 
