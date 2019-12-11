@@ -11,7 +11,9 @@ location: "Barcelona, Spain"
 ## 1. Topics addressed
 
 
-3D Character animation is a tricky business. It involves complicated mathematics, handcrafted efforts, and a plethora of techniques. You can find here all the materials used to teach a course lasting 15-16 weeks, with 4 hours or class per week. It covers the following topics:
+3D Character animation is a tricky business. It involves complicated mathematics, handcrafted efforts, and a plethora of techniques. 
+
+In 2017 I was asked to organize a course to teach these topics. I came up with a syllabus that covers the following topics:
  * 3D Rotations (particularly using Quaternions and Axis Angle representations)
  * Direct and Inverse Kinematics (Gradient Descent, CCD, Fabrik)
  * Animations in a game engine (From Motion Builder to Unity3D)
@@ -22,10 +24,26 @@ location: "Barcelona, Spain"
 
 
 ## 2. Syllabus and Deliveries
-
+You can find here all the materials used to teach a course lasting 15-16 weeks, with 4 hours or class per week.
  The course is organized in four blocks:
- 1. **3D Rotations**, with all materials available [here](./anim-foundations/3Drotations)
- 2. **GIT and programming habits**, with all materials available [here](./anim-foundations/3Drotations)
+ 1. **3D Rotations**, using the following materials: 
+ 
+ 
+[01.AnimationFoundations2019-20.Introduction.pdf](files/courses/animation-foundations/01.AnimationFoundations2019-20.Introduction.pdf)
+
+[02.AnimationFoundations.Rotations_part1.pdf](files/courses/animation-foundations/02.AnimationFoundations.Rotations_part1.pdf)
+
+[03.AnimationFoundations.Rotations_part2.pdf](files/courses/animation-foundations/03.AnimationFoundations.Rotations_part2.pdf)
+
+[04.axis_align.unitypackage](files/courses/animation-foundations/04.axis_align.unitypackage)
+
+[05.AnimationFoundations.IntroProcAnimAndExercises.pdf](files/courses/animation-foundations/05.AnimationFoundations.IntroProcAnimAndExercises.pdf)
+
+[06.AnimationFoundations.Intro2Constraints.pdf](files/courses/animation-foundations/06.AnimationFoundations.Intro2Constraints.pdf)
+
+ 
+ 
+  2. **GIT and programming habits**, with all materials available [here](./anim-foundations/3Drotations)
  3. Direct and Inverse Kinematics
  4. Animation 
  
@@ -55,7 +73,7 @@ If you want to follow this course but feel like you have gaps on these topics, y
 
 ## 4. Credits
 
-The materials here introduced have been used in a course delivered at the third year of a four year degree for computer scientists specialized in videogame development. The materials have been used during scholar years 2017-18, 2018-19 and 2019-20 at ENTI-UB ( [Escola de Noves Tecnologies Interactives](www.enti.cat) of [Universitat de Barcelona](www.ub.edu)).
+The materials here introduced have been used in a course delivered at the third year of a four year degree for computer scientists specialized in videogame development. The materials have been used during scholar years 2017-18, 2018-19 and 2019-20 at ENTI-UB ( [Escola de Noves Tecnologies Interactives](http://www.enti.cat) of [Universitat de Barcelona](http://www.ub.edu)).
 
 The course has been organized using a miscelanea of materials, both adapting topics and exercises from academic-oriented books and from tutorials available online. I have tried to credit all the sources used, but please let me know if some material does not credit properly the original source.
 
@@ -68,8 +86,8 @@ The course has been organized using a miscelanea of materials, both adapting top
 
 **Online Materials**
 
-* Boulic &  Kulpa (2007) *Inverse Kinematics and Kinetics for Virtual Humanoids* Eurographics 2007 - Tutorials. Ed. Myszkowski &  Havran, The Eurographics Association *DOI: 10.2312/egt.20071063* [link](https://diglib.eg.org/handle/10.2312/egt.20071063.173-243)
-* Zucconi (2017-18) *A series on Inverse Kinematics* online course [link](https://www.alanzucconi.com/tag/inverse-kinematics/)
+* Boulic &  Kulpa (2007) *Inverse Kinematics and Kinetics for Virtual Humanoids* Eurographics 2007 - Tutorials. Ed. Myszkowski &  Havran, The Eurographics Association *DOI: 10.2312/egt.20071063* [link](target="_blank" rel="noopener noreferrer" https://diglib.eg.org/handle/10.2312/egt.20071063.173-243)
+* Zucconi (2017-18) *A series on Inverse Kinematics* online course [link](target="_blank" rel="noopener noreferrer" https://www.alanzucconi.com/tag/inverse-kinematics/)
 
 
 
