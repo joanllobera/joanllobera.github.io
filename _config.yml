@@ -274,6 +274,8 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+
+gems:
   - jekyll-target-blank
 
 # Archives
