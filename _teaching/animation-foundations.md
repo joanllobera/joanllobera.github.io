@@ -29,17 +29,23 @@ You can find here all the materials used to teach a course lasting 15-16 weeks, 
  1. **3D Rotations**, using the following materials: 
  
  
-[01.AnimationFoundations2019-20.Introduction.pdf](files/courses/animation-foundations/01.AnimationFoundations2019-20.Introduction.pdf)
+ | Entry            | Item   |                                                              |
+| --------         | ------ | ------------------------------------------------------------ |
+| 01    | [Introduction.pdf](files/courses/animation-foundations/01.AnimationFoundations2019-20.Introduction.pdf)                           | A general introduction          |
+| 02    | [Rotations_part1.pdf](files/courses/animation-foundations/02.AnimationFoundations.Rotations_part1.pdf)                            | First part of 3D rotations      |
+| 03    | [Rotations_part2.pdf](files/courses/animation-foundations/03.AnimationFoundations.Rotations_part2.pdf)                            | Second part of 3D rotations     |
+| 04    | [Axis_align.unitypackage](files/courses/animation-foundations/04.axis_align.unitypackage)                                         | A unity package for exercises   |
+| 05    | [IntroProcAnimAndExercises.pdf](files/courses/animation-foundations/05.AnimationFoundations.IntroProcAnimAndExercises.pdf)        | Exercises                       |
+| 06    | [AnimationFoundations.Intro2Constraints.pdf](files/courses/animation-foundations/06.AnimationFoundations.Intro2Constraints.pdf)   | A first intro to constraints    |
+ 
+ 
+ 
 
-[02.AnimationFoundations.Rotations_part1.pdf](files/courses/animation-foundations/02.AnimationFoundations.Rotations_part1.pdf)
 
-[03.AnimationFoundations.Rotations_part2.pdf](files/courses/animation-foundations/03.AnimationFoundations.Rotations_part2.pdf)
 
-[04.axis_align.unitypackage](files/courses/animation-foundations/04.axis_align.unitypackage)
 
-[05.AnimationFoundations.IntroProcAnimAndExercises.pdf](files/courses/animation-foundations/05.AnimationFoundations.IntroProcAnimAndExercises.pdf)
 
-[06.AnimationFoundations.Intro2Constraints.pdf](files/courses/animation-foundations/06.AnimationFoundations.Intro2Constraints.pdf)
+
 
  
  
