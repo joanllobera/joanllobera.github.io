@@ -73,7 +73,7 @@ If you want to follow this course but feel like you have gaps on these topics, y
 
 ## 4. Credits
 
-The materials here introduced have been used in a course delivered at the third year of a four year degree for computer scientists specialized in videogame development. The materials have been used during scholar years 2017-18, 2018-19 and 2019-20 at ENTI-UB ( [Escola de Noves Tecnologies Interactives](http://www.enti.cat) of [Universitat de Barcelona](http://www.ub.edu)).
+The materials here introduced have been used in a course delivered at the third year of a four year degree for computer scientists specialized in videogame development. The materials have been used during scholar years 2017-18, 2018-19 and 2019-20 at ENTI-UB ( [Escola de Noves Tecnologies Interactives](http://www.enti.cat){:target="_blank" rel="noopener noreferrer"} of [Universitat de Barcelona](http://www.ub.edu){:target="_blank" rel="noopener noreferrer"}).
 
 The course has been organized using a miscelanea of materials, both adapting topics and exercises from academic-oriented books and from tutorials available online. I have tried to credit all the sources used, but please let me know if some material does not credit properly the original source.
 
@@ -86,8 +86,8 @@ The course has been organized using a miscelanea of materials, both adapting top
 
 **Online Materials**
 
-* Boulic &  Kulpa (2007) *Inverse Kinematics and Kinetics for Virtual Humanoids* Eurographics 2007 - Tutorials. Ed. Myszkowski &  Havran, The Eurographics Association *DOI: 10.2312/egt.20071063* [link](target="_blank" rel="noopener noreferrer" https://diglib.eg.org/handle/10.2312/egt.20071063.173-243)
-* Zucconi (2017-18) *A series on Inverse Kinematics* online course [link](target="_blank" rel="noopener noreferrer" https://www.alanzucconi.com/tag/inverse-kinematics/)
+* Boulic &  Kulpa (2007) *Inverse Kinematics and Kinetics for Virtual Humanoids* Eurographics 2007 - Tutorials. Ed. Myszkowski &  Havran, The Eurographics Association *DOI: 10.2312/egt.20071063* [link](https://diglib.eg.org/handle/10.2312/egt.20071063.173-243){:target="_blank" rel="noopener noreferrer"}
+* Zucconi (2017-18) *A series on Inverse Kinematics* online course [link]( https://www.alanzucconi.com/tag/inverse-kinematics/){:target="_blank" rel="noopener noreferrer"}
 
 
 
