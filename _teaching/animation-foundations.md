@@ -12,8 +12,7 @@ location: "Barcelona, Spain"
 
 ### 1.1. Topics addressed
 
-3D Character animation is a tricky business. It involves complicated mathematics, handcrafted efforts, and a plethora of techniques. In this website you can find all the materials used to teach Animation Foundations at the third year of a four year degree for computer scientists specialized in videogame development. The materials have been used during scholar years 2017-18, 2018-19 and 2019-20 at ENTI-UB ( *Escola de Noves Tecnologies Interactives* of *Universitat de Barcelona*).
-The course lasts 15-16 weeks, with 4 hours or class per week, and it covers the following topics:
+3D Character animation is a tricky business. It involves complicated mathematics, handcrafted efforts, and a plethora of techniques. You can find here all the materials used to teach a course lasting 15-16 weeks, with 4 hours or class per week. It covers the following topics:
  * 3D Rotations (particularly using Quaternions and Axis Angle representations)
  * Direct and Inverse Kinematics (Gradient Descent, CCD, Fabrik)
  * Animations in a game engine (From Motion Builder to Unity3D)
@@ -21,6 +20,23 @@ The course lasts 15-16 weeks, with 4 hours or class per week, and it covers the 
   There is also a fair amount of emphasis on practical aspects of programming, like:
  * Git, and particularly Git Flow (branches, releases, tags, etc.)
  * Improving the work habits, and documentation. This includes naming conventions, functionality encapsulation, and use of assembly libraries
+
+
+### 1.2 Syllabus and Deliveries
+
+ The course is organized in four blocks:
+ 1. 3D Rotations
+ 2. GIT and programming habits
+ 3. Direct and Inverse Kinematics
+ 4. Animation 
+ 
+ It is organized in three deliveries:
+ 1.
+ 2.
+ 3.
+ 
+ 
+ 
  
  
 ###  1.2 Requirements
@@ -40,6 +56,8 @@ If you want to follow this course but feel like you have gaps on these topics, y
 
 ### 1.3 Credits
 
+The materials here introduced have been used in a course delivered at the third year of a four year degree for computer scientists specialized in videogame development. The materials have been used during scholar years 2017-18, 2018-19 and 2019-20 at ENTI-UB ( [Escola de Noves Tecnologies Interactives](www.enti.cat) of [Universitat de Barcelona](www.ub.edu)).
+
 The course has been organized using a miscelanea of materials, both adapting topics and exercises from academic-oriented books and from tutorials available online. I have tried to credit all the sources used, but please let me know if some material does not credit properly the original source.
 
 **Bibliography**
@@ -56,9 +74,6 @@ The course has been organized using a miscelanea of materials, both adapting top
 
 
 
-# 2. Syllabus and Deliveries
-
-The course covers three aspects:
 
 
 
