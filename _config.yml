@@ -274,7 +274,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
+  - jekyll-target-blank
 
 # Archives
 #  Type
