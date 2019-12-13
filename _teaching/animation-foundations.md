@@ -41,8 +41,14 @@ You can find here all the materials used to teach a course lasting 15-16 weeks, 
 | 04    | [Axis_align.unitypackage](files/04.axis_align.unitypackage)                                         | A unity package for exercises   |
 | 05    | [IntroProcAnimAndExercises.pdf](files/05.AnimationFoundations.IntroProcAnimAndExercises.pdf)        | Exercises                       |
 | 06    | [AnimationFoundations.Intro2Constraints.pdf](files/06.AnimationFoundations.Intro2Constraints.pdf)   | A first intro to constraints    |
+| Block 2            | GIT and Programming habits   |                                                              |
+| --------         | ------ | ------------------------------------------------------------ |
+
+
+
+
  
- ## 3. Deliveries
+## 3. Deliveries
  
 This course has three deliveries:
  1. **A library to control an articulated robot.** This requires implementing a Quaternion class and using it to move an articulated robot with direct kinematics. 
@@ -66,7 +72,7 @@ Despite they are re-introduced during the course, a student of this course would
 * Acquaintance with the syntax of C# and use of the Unity3D API
 * Use of git
 
-If you want to follow this course but feel like you have gaps on these topics, you can follow the materials introduced here, since each of these topics are introduced briefly. However, you might need to find alternative sources to explore them more exhaustively for a full understanding of the aspects covered here.
+If you want to follow this course but feel like you have gaps on these topics, you can follow the materials introduced here, since each of these topics are introduced briefly. However, you might need to find alternative sources to explore them more exhaustively for a full understanding of the topics of the course.
 
 ## 4. Credits
 
