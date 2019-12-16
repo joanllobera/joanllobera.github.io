@@ -35,16 +35,35 @@ You can find here all the materials used to teach a course lasting 15-16 weeks, 
  
 | Block 1            | 3D Rotations   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
-| 01    | [Introduction.pdf](files/01.AnimationFoundations2019-20.Introduction.pdf)                           | A general introduction          |
-| 02    | [Rotations_part1.pdf](files/02.AnimationFoundations.Rotations_part1.pdf)                            | First part of 3D rotations      |
-| 03    | [Rotations_part2.pdf](files/03.AnimationFoundations.Rotations_part2.pdf)                            | Second part of 3D rotations     |
-| 04    | [Axis_align.unitypackage](files/04.axis_align.unitypackage)                                         | A unity package for exercises   |
-| 05    | [IntroProcAnimAndExercises.pdf](files/05.AnimationFoundations.IntroProcAnimAndExercises.pdf)        | Exercises                       |
-| 06    | [AnimationFoundations.Intro2Constraints.pdf](files/06.AnimationFoundations.Intro2Constraints.pdf)   | A first intro to constraints    |
+| 01    | [Introduction.pdf](animation-foundations/01.AnimationFoundations2019-20.Introduction.pdf)                           | A general introduction          |
+| 02    | [Rotations_part1.pdf](animation-foundations/02.AnimationFoundations.Rotations_part1.pdf)                            | First part of 3D rotations      |
+| 03    | [Rotations_part2.pdf](animation-foundations/03.AnimationFoundations.Rotations_part2.pdf)                            | Second part of 3D rotations     |
+| 04    | [Axis_align.unitypackage](animation-foundations/04.axis_align.unitypackage)                                         | A unity package for exercises   |
+| 05    | [IntroProcAnimAndExercises.pdf](animation-foundations/05.AnimationFoundations.IntroProcAnimAndExercises.pdf)        | Exercises                       |
+| 06    | [Intro2Constraints.pdf](animation-foundations/06.AnimationFoundations.Intro2Constraints.pdf)   | A first intro to constraints    |
 | Block 2            | GIT and Programming habits   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
+| 07    | [IntroToGITFlow.pdf](animation-foundations/07.AnimationFoundations.IntroToGITFlow.pdf)   | Git flow, syntax and tips for programmign practice |
+| Block 3            | Forward and Inverse Kinematics   | 
+| --------         | ------ | ------------------------------------------------------------ |
+| 08.01    | [Direct_Kinematics.pdf](animation-foundations/08.01.AnimationFoundations.Direct_Kinematics.pdf)   | Introduction to direct kinematics    |
+| 08.02    | [Direct_kinematics_exercise.unitypackage](animation-foundations/08.02.direct_kinematics_exercise.unitypackage)   | Materials for Direct Kinematics exercises    |
+| 09    | [Introduction2IK.pdf](animation-foundations/09.AnimationFoundations.Introduction2IK.pdf)   | Introduction to Inverse Kinematics    |
+| 10.01    | [IK_materials4gradientdescent.unitypackage](animation-foundations/10.01.IK_materials4gradientdescent.unitypackage)   | Gradient Descent for Inverse Kinematics    |
+| 10.02    | IKgradient_descent_SolutionScripts.zip																	| Solutions - Not publicly available    |
+| 11.00    | [IK_Jacobian_and_CCD.pdf](animation-foundations/11.00.AnimationFoundations.IK_Jacobian_and_CCD)   | What is a jacobian and how we arrive to Cyclic Coordinate Descent |
+| 11.01    | [IKccd.unitypackage](animation-foundations/11.01.IKccd.unitypackage)   | Materials for CCD exercices  |
+| 12.00   | [IK_FABRIK.pdf](animation-foundations/12.00.AnimationFoundations.IK_FABRIK.pdf)   | Explanation of FABRIK  |
+| 12.01   | [Fabrik_exercise.unitypackage](animation-foundations/12.01.fabrik_exercise.unitypackage)   | Materials for FABRIK exercises |
+| 12.02   | [Fabrik_article.pdf](animation-foundations/12.02.fabrik_article.pdf)   | Paper introducing FABRIK. Good read for intro to read scientific articles |
+| 12.03   | [Fabrikconstraints_article.pdf](animation-foundations/12.03.fabrikconstraints_article.pdf)   | Constraints under FABRIK. Shows why constraints with FABRIK are difficult|
+| 13.01   | [Constraints4IK.pdf](animation-foundations/13.01.AnimationFoundations.Constraints4IK.pdf)   | Further explanation of constraints, now in context of IK |
+| 13.02   | [Constraints4IK.unitypackage](animation-foundations/13.02.Constraints4IK.unitypackage)   | Materials for IK exercises |
+| 14.01    | IKccd-2solutions.unitypackage																	| Solutions - Not publicly available    |
+| 14.02    | IKfabrik-2solutions.unitypackage																	| Solutions - Not publicly available    |
 
 
+| 17    | [Direct_Kinematics.pdf](animation-foundations/17.AnimationFoundations.Physics_review.pdf) 		| A review of physics to animate objects in a game engine    |
 
 
  
