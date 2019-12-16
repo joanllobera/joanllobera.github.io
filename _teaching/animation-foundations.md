@@ -62,6 +62,21 @@ You can find here all the materials used to teach a course lasting 15-16 weeks, 
 | 14.01    | IKccd-2solutions.unitypackage																	| Solutions - Not publicly available    |
 | 14.02    | IKfabrik-2solutions.unitypackage																	| Solutions - Not publicly available    |
 
+| 15.01    | [Introduction2MotionBuilder_part1.pdf](animation-foundations/15.01.AnimationFoundations.Introduction2MotionBuilder_part1.pdf) 		| A short introduction to motion builder   |
+
+| 15.02    | [MB-course-part1-materials.zip](animation-foundations/15.02.MB-course-part1-materials.zip) 		| Materials to play with in motion builder |
+
+| 16.01    | [Introduction2MotionBuilder_part2.pdf](animation-foundations/16.01.AnimationFoundations.Introduction2MotionBuilder_part2.pdf) 		| A slightly deeper exploration of animation in Motion Builder  |
+
+| 16.02    | [MB-course-part1-materials.zip](animation-foundations/15.02.MB-course-part2-materials.zip) 	| Not there yet    |
+
+| 17    | [Direct_Kinematics.pdf](animation-foundations/17.AnimationFoundations.Physics_review.pdf) 		| A review of physics to animate objects in a game engine    |
+
+
+
+
+15.01.Introduction2MotionBuilder_part1.pdf
+
 
 | 17    | [Direct_Kinematics.pdf](animation-foundations/17.AnimationFoundations.Physics_review.pdf) 		| A review of physics to animate objects in a game engine    |
 
