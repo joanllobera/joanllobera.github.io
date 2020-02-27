@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-THIS WEB PAGE IS UNDER CONSTRUCTION, PLEASE CONSIDER IT A DRAFT
 
 For the last 15 years, my main job interest has been to try to help VR work. This medium might change the world, for the better of worse. My everyday activities involve:
 
