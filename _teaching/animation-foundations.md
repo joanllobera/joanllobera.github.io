@@ -8,7 +8,6 @@ date: 2019-09-15
 location: "Barcelona, Spain"
 ---
 
-## 1. Topics addressed
 3D Character animation is a tricky business. It involves complicated mathematics, handcrafted efforts, and a plethora of techniques. 
 In 2017 I was asked to organize a course to teach these topics. I came up with a syllabus that covers the following topics:
  1. 3D Rotations 
@@ -21,7 +20,7 @@ In 2017 I was asked to organize a course to teach these topics. I came up with a
  * Improving programming habits, and documentation. This includes naming conventions, functionality encapsulation, and use of assembly libraries
 
 
-## 2. Syllabus 
+## 1. Syllabus 
 You can find here all the materials used to teach a course lasting 15-16 weeks, with 4 hours or class per week.
  The course is organized in four blocks:
  1. **3D Rotations** , mainly on Quaternion and Axis Angle representations 
@@ -75,7 +74,7 @@ You can find here all the materials used to teach a course lasting 15-16 weeks, 
 
 
  
-## 3. Deliveries
+## 2. Deliveries
  
 This course has three deliveries:
  1. **A library to control an articulated robot.** This requires implementing a Quaternion class and using it to move an articulated robot with direct kinematics. 
@@ -101,7 +100,7 @@ Despite they are re-introduced during the course, a student of this course would
 
 If you want to follow this course but feel like you have gaps on these topics, you can follow the materials introduced here, since each of these topics are introduced briefly. However, you might need to find alternative sources to explore them more exhaustively for a full understanding of the topics of the course.
 
-## 4. Credits
+## 4. Bibliography and Online Materials
 
 The materials here introduced have been used in a course delivered at the third year of a four year degree for computer scientists specialized in videogame development. The materials have been used during scholar years 2017-18, 2018-19 and 2019-20 at ENTI-UB ( [Escola de Noves Tecnologies Interactives](http://www.enti.cat)of [Universitat de Barcelona](http://www.ub.edu).
 
