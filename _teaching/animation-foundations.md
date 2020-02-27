@@ -9,8 +9,6 @@ location: "Barcelona, Spain"
 ---
 
 ## 1. Topics addressed
-
-
 3D Character animation is a tricky business. It involves complicated mathematics, handcrafted efforts, and a plethora of techniques. 
 In 2017 I was asked to organize a course to teach these topics. I came up with a syllabus that covers the following topics:
  1. 3D Rotations 
