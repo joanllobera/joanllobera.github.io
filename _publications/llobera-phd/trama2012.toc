@@ -1,0 +1,192 @@
+\babel@toc {british}{}
+\vspace {-\cftbeforechapskip }
+\contentsline {chapter}{Acknowledgements}{ix}{section*.2}%
+\contentsline {chapter}{Abstract}{xi}{section*.4}%
+\thispagestyle {empty}
+\contentsline {chapter}{\numberline {1}\spacedlowsmallcaps {Introduction}}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Motivation}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Research Objectives}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Document overview}{4}{section.1.3}%
+\contentsline {chapter}{\numberline {2}\spacedlowsmallcaps {Technologies for Interactive Stories}}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Narrative IVE in Virtual Reality Therapy}{9}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Interaction with virtual environments}{10}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Narratives in video-games}{13}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Introduction}{13}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Narrative aspects of different video-game genres}{14}{subsection.2.4.2}%
+\contentsline {subsubsection}{Fight}{14}{subsection.2.4.2}%
+\contentsline {subsubsection}{Role-Playing}{16}{figure.caption.10}%
+\contentsline {subsubsection}{Adventure}{17}{figure.caption.10}%
+\contentsline {subsubsection}{Strategy}{18}{figure.caption.10}%
+\contentsline {subsubsection}{Puzzles, mazes and platforms}{19}{figure.caption.10}%
+\contentsline {subsubsection}{Simulation}{20}{figure.caption.10}%
+\contentsline {subsubsection}{Sandbox games}{21}{figure.caption.10}%
+\contentsline {subsection}{\numberline {2.4.3}Discussion}{22}{subsection.2.4.3}%
+\contentsline {subsubsection}{Stories are just used as interaction metaphors}{22}{subsection.2.4.3}%
+\contentsline {subsubsection}{Games involve chance, stories destiny}{22}{subsection.2.4.3}%
+\contentsline {subsubsection}{Characters are flat}{23}{subsection.2.4.3}%
+\contentsline {subsubsection}{It is simply a different medium}{24}{subsection.2.4.3}%
+\contentsline {section}{\numberline {2.5}Interactive Drama}{25}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Introduction}{25}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Generative approaches}{26}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}Dramatic guidance of interactivity}{27}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.5.4}Discussion}{30}{subsection.2.5.4}%
+\contentsline {subsubsection}{Decisions need to face uncertainty}{30}{subsection.2.5.4}%
+\contentsline {subsubsection}{The participant has to be the protagonist}{32}{subsection.2.5.4}%
+\contentsline {subsubsection}{Stories are directed by Fate, interactivity by Free Will}{33}{subsection.2.5.4}%
+\contentsline {subsubsection}{ Abstraction will make stories interactive}{34}{subsection.2.5.4}%
+\contentsline {section}{\numberline {2.6}Situated Agents}{35}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Introduction}{35}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}Behaviour Networks}{37}{subsection.2.6.2}%
+\contentsline {subsection}{\numberline {2.6.3}Extended Behaviour Networks}{39}{subsection.2.6.3}%
+\contentsline {subsection}{\numberline {2.6.4}Syntax}{41}{subsection.2.6.4}%
+\contentsline {subsubsection}{Formal Definition}{42}{lstnumber.-4.12}%
+\contentsline {subsection}{\numberline {2.6.5}Limitations of Behaviour Networks}{44}{subsection.2.6.5}%
+\contentsline {section}{\numberline {2.7}Considerations about the production methods}{45}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Conclusions}{47}{section.2.8}%
+\contentsline {chapter}{\numberline {3}\spacedlowsmallcaps {What is a story?}}{49}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{49}{section.3.1}%
+\contentsline {section}{\numberline {3.2}A story definition}{51}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Stories in Theatre}{52}{section.3.3}%
+\contentsline {section}{\numberline {3.4}The elements of an acted story}{54}{section.3.4}%
+\contentsline {section}{\numberline {3.5}On the meaning of stories}{56}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Meaning as categorization}{56}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Prototype theory}{56}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Intentions}{58}{subsection.3.5.3}%
+\contentsline {section}{\numberline {3.6}A different theory of communication}{59}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Introduction}{59}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}The inferential communication model}{61}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.3}The Cooperative principle}{62}{subsection.3.6.3}%
+\contentsline {subsection}{\numberline {3.6.4}Relevance Theory}{63}{subsection.3.6.4}%
+\contentsline {section}{\numberline {3.7}Stories as Language Games}{64}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}How to define a cause?}{65}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.2}What is a Context?}{65}{subsection.3.7.2}%
+\contentsline {section}{\numberline {3.8}Conclusions}{66}{section.3.8}%
+\contentsline {chapter}{\numberline {4}\spacedlowsmallcaps {Proxemics with multiple dynamic virtual characters}}{69}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{69}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Proxemics}{71}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Materials and Methods}{72}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Participants}{72}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Materials}{75}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Procedure}{75}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}Scenario}{76}{subsection.4.3.4}%
+\contentsline {subsection}{\numberline {4.3.5} Experimental Design }{77}{subsection.4.3.5}%
+\contentsline {subsection}{\numberline {4.3.6}Response Variables}{77}{subsection.4.3.6}%
+\contentsline {subsection}{\numberline {4.3.7} Questionnaire and Interview}{78}{subsection.4.3.7}%
+\contentsline {subsection}{\numberline {4.3.8}Statistical Analysis}{79}{subsection.4.3.8}%
+\contentsline {section}{\numberline {4.4}Results}{79}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Overview}{79}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2} The number of SCRs}{80}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Change in Skin Conductance Level $\Delta $SCL}{81}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.4.4}Questionnaire and Interview}{81}{subsection.4.4.4}%
+\contentsline {section}{\numberline {4.5}Discussion}{82}{section.4.5}%
+\contentsline {chapter}{\numberline {5}\spacedlowsmallcaps {Principles of Interaction}}{89}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Introduction}{89}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Fate against Free Will}{90}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Providence}{91}{section.5.3}%
+\contentsline {section}{\numberline {5.4}The Zelig Interaction Metaphor}{92}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Providence with the Zelig interaction metaphor}{95}{section.5.5}%
+\contentsline {section}{\numberline {5.6} Implementation}{96}{section.5.6}%
+\contentsline {section}{\numberline {5.7}Conclusions}{100}{section.5.7}%
+\contentsline {chapter}{\numberline {6}\spacedlowsmallcaps {Identification with a virtual body}}{101}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Introduction}{101}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Methods}{105}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Equipment}{105}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Experimental design}{106}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Participants}{108}{subsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.2.4}Procedures}{108}{subsection.6.2.4}%
+\contentsline {subsection}{\numberline {6.2.5} The Questionnaire}{111}{subsection.6.2.5}%
+\contentsline {subsection}{\numberline {6.2.6}The TST readings}{111}{subsection.6.2.6}%
+\contentsline {section}{\numberline {6.3}Results}{111}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Questionnaire Scores}{111}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Temperature Sensitivity Threshold }{112}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.3}Relationship between TST and the body ownership illusion}{112}{subsection.6.3.3}%
+\contentsline {section}{\numberline {6.4}Discussion}{113}{section.6.4}%
+\contentsline {chapter}{\numberline {7}\spacedlowsmallcaps {Trama: a cognitive story model}}{125}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Introduction}{125}{section.7.1}%
+\contentsline {section}{\numberline {7.2}A logic for causally-related stochastic events}{126}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Introduction}{126}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}Events}{127}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.2.3}Llogic operators}{128}{subsection.7.2.3}%
+\contentsline {subsection}{\numberline {7.2.4}Causes and contexts}{130}{subsection.7.2.4}%
+\contentsline {section}{\numberline {7.3}Causally-related events within situated agents}{132}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}Election of the architecture}{132}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.3.2}How to instantiate the events forming a story in a set of \textbf {EBN} agents}{133}{subsection.7.3.2}%
+\contentsline {subsection}{\numberline {7.3.3}Why does such embodiment work?}{137}{subsection.7.3.3}%
+\contentsline {section}{\numberline {7.4}A story for situated agents}{140}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}Introduction}{140}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.2}How to integrate the participant's behaviour in the story}{141}{subsection.7.4.2}%
+\contentsline {subsection}{\numberline {7.4.3}A story declared in 3 steps}{142}{subsection.7.4.3}%
+\contentsline {subsubsection}{Step 1: Declaration}{143}{subsection.7.4.3}%
+\contentsline {subsubsection}{Step 2: Quantification}{144}{figure.caption.34}%
+\contentsline {subsubsection}{Step 3: Instantiation}{147}{figure.caption.34}%
+\contentsline {section}{\numberline {7.5}Summary}{148}{section.7.5}%
+\contentsline {chapter}{\numberline {8}\spacedlowsmallcaps {A story told within an immersive virtual environment}}{151}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Introduction}{151}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Materials and Methods}{152}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}Participants and ethical approval}{152}{subsection.8.2.1}%
+\contentsline {subsection}{\numberline {8.2.2}Materials}{152}{subsection.8.2.2}%
+\contentsline {subsection}{\numberline {8.2.3}Procedure}{152}{subsection.8.2.3}%
+\contentsline {subsection}{\numberline {8.2.4}The scenario}{153}{subsection.8.2.4}%
+\contentsline {subsection}{\numberline {8.2.5}Experimental Design}{155}{subsection.8.2.5}%
+\contentsline {subsection}{\numberline {8.2.6}Questionnaires}{155}{subsection.8.2.6}%
+\contentsline {section}{\numberline {8.3}Results}{156}{section.8.3}%
+\contentsline {chapter}{\numberline {9}\spacedlowsmallcaps {Discussion}}{161}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Summary of results}{161}{section.9.1}%
+\contentsline {section}{\numberline {9.2}A new way to tell stories}{163}{section.9.2}%
+\contentsline {section}{\numberline {9.3}the Trama model from a computational perspective}{166}{section.9.3}%
+\contentsline {subsection}{\numberline {9.3.1}Introduction}{166}{subsection.9.3.1}%
+\contentsline {subsection}{\numberline {9.3.2}Computational properties}{167}{subsection.9.3.2}%
+\contentsline {subsubsection}{Scalability}{167}{subsection.9.3.2}%
+\contentsline {subsubsection}{Completeness}{168}{subsection.9.3.2}%
+\contentsline {subsubsection}{Stability}{168}{subsection.9.3.2}%
+\contentsline {subsubsection}{Generality}{169}{subsection.9.3.2}%
+\contentsline {subsection}{\numberline {9.3.3}A new way to combine logic and uncertainty}{170}{subsection.9.3.3}%
+\contentsline {subsubsection}{Stories as a way to organize information}{170}{subsection.9.3.3}%
+\contentsline {subsubsection}{A mechanism to represent causal relations}{171}{subsection.9.3.3}%
+\contentsline {subsubsection}{Llogic compared to possibility theory}{172}{subsection.9.3.3}%
+\contentsline {subsubsection}{A larger statistical framework?}{174}{subsection.9.3.3}%
+\contentsline {section}{\numberline {9.4}Stories within cognitive sciences}{175}{section.9.4}%
+\contentsline {subsection}{\numberline {9.4.1}Introduction}{175}{subsection.9.4.1}%
+\contentsline {subsection}{\numberline {9.4.2}Causality}{177}{subsection.9.4.2}%
+\contentsline {subsection}{\numberline {9.4.3}Decisions under uncertainty}{179}{subsection.9.4.3}%
+\contentsline {subsection}{\numberline {9.4.4}Learning to control movement}{181}{subsection.9.4.4}%
+\contentsline {subsubsection}{Introduction}{181}{subsection.9.4.4}%
+\contentsline {subsubsection}{Two models of action selection}{182}{subsection.9.4.4}%
+\contentsline {subsubsection}{Bayesian inference versus Empirical Range Theory}{184}{subsection.9.4.4}%
+\contentsline {subsubsection}{The learning brain}{186}{subsection.9.4.4}%
+\contentsline {subsection}{\numberline {9.4.5}Summary}{188}{subsection.9.4.5}%
+\contentsline {section}{\numberline {9.5}Ethical aspects}{188}{section.9.5}%
+\contentsline {chapter}{\numberline {10}\spacedlowsmallcaps {Conclusions}}{193}{chapter.10}%
+\contentsline {chapter}{\numberline {A}\spacedlowsmallcaps {APPENDIX A. The implementation of Tramabots}}{195}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Introduction}{195}{section.A.1}%
+\contentsline {section}{\numberline {A.2}Data structure to process the events of the story}{196}{section.A.2}%
+\contentsline {section}{\numberline {A.3}How to implement the ATP principle}{197}{section.A.3}%
+\contentsline {section}{\numberline {A.4}How to implement the Substitution principle}{199}{section.A.4}%
+\contentsline {section}{\numberline {A.5}Initialization}{202}{section.A.5}%
+\contentsline {section}{\numberline {A.6}Run time}{203}{section.A.6}%
+\contentsline {chapter}{\numberline {B}\spacedlowsmallcaps {APPENDIX B: A new model of causal inference}}{207}{appendix.B}%
+\contentsline {section}{\numberline {B.1}Introduction}{207}{section.B.1}%
+\contentsline {section}{\numberline {B.2}Elements of lattice theory}{210}{section.B.2}%
+\contentsline {section}{\numberline {B.3}Inferring causes across 3 levels of description}{212}{section.B.3}%
+\contentsline {subsection}{\numberline {B.3.1}Causes in a \emph {logical description} are pseudo-complemented lattices}{212}{subsection.B.3.1}%
+\contentsline {subsection}{\numberline {B.3.2}Causes in a \emph {quantified description} minimize surprise}{217}{subsection.B.3.2}%
+\contentsline {subsection}{\numberline {B.3.3}Causes in an \emph {instantiated description} match statistical estimation}{218}{subsection.B.3.3}%
+\contentsline {section}{\numberline {B.4}Situated agents that learn to coordinate behaviour}{219}{section.B.4}%
+\contentsline {section}{\numberline {B.5}Towards a different theory of communication}{224}{section.B.5}%
+\contentsline {subsection}{\numberline {B.5.1}Introduction}{224}{subsection.B.5.1}%
+\contentsline {subsection}{\numberline {B.5.2}Review of the formalism}{224}{subsection.B.5.2}%
+\contentsline {subsection}{\numberline {B.5.3}Inferring Implicatures}{227}{subsection.B.5.3}%
+\contentsline {subsection}{\numberline {B.5.4}Acquiring Communicative Competence}{230}{subsection.B.5.4}%
+\contentsline {subsection}{\numberline {B.5.5}Validation and limits of inferring \emph {implicatures} in the \textbf {Trama} model}{231}{subsection.B.5.5}%
+\contentsline {chapter}{\numberline {C}\spacedlowsmallcaps {APPENDIX C: Mathematical summary}}{235}{appendix.C}%
+\contentsline {section}{\numberline {C.1}Notation}{235}{section.C.1}%
+\contentsline {section}{\numberline {C.2}Llogic operators}{237}{section.C.2}%
+\contentsline {subsection}{\numberline {C.2.1}Declaration of sequences}{237}{subsection.C.2.1}%
+\contentsline {subsection}{\numberline {C.2.2}Quantification of logic relations}{237}{subsection.C.2.2}%
+\contentsline {subsection}{\numberline {C.2.3}Dynamics}{239}{subsection.C.2.3}%
+\contentsline {section}{\numberline {C.3}Formal Definitions}{239}{section.C.3}%
+\contentsline {subsection}{\numberline {C.3.1}Events}{239}{subsection.C.3.1}%
+\contentsline {subsection}{\numberline {C.3.2}Causes and Contexts}{240}{subsection.C.3.2}%
+\contentsline {subsection}{\numberline {C.3.3}Stories and Stochastic Processes}{240}{subsection.C.3.3}%
+\contentsline {chapter}{References}{243}{section*.48}%

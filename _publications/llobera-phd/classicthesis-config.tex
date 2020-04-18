@@ -1,0 +1,570 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Thesis Configuration File
+%
+% The main lines to change in this file are in the DOCUMENT VARIABLES
+% section, the rest of the file is for advanced configuration.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	DOCUMENT VARIABLES
+%	Fill in the lines below to enter your information into the thesis template
+%	Each of the commands can be cited anywhere in the thesis
+%----------------------------------------------------------------------------------------
+
+% Remove drafting to get rid of the '[ Date - classicthesis version 4.0 ]' text at the bottom of every page
+%\PassOptionsToPackage{eulerchapternumbers,listings,drafting, pdfspacing, subfig,beramono,eulermath,parts}{classicthesis}
+\PassOptionsToPackage{eulerchapternumbers,listings,pdfspacing,dottedtoc,floatperchapter}{classicthesis}
+
+% Available options: drafting parts nochapters linedheaders eulerchapternumbers beramono eulermath pdfspacing minionprospacing tocaligned dottedtoc manychapters listings floatperchapter subfig
+% Adding 'dottedtoc' will make page numbers in the table of contents flushed right with dots leading to them
+
+\newcommand{\myTitle}{Stories within immersive virtual environments\xspace}
+%\newcommand{\mySubtitle}{ }
+\newcommand{\myDegree}{ (Dr.-Ing.)\xspace}
+\newcommand{\myName}{Joan Llobera\xspace}
+\newcommand{\myProf}{Mel Slater\xspace}
+%\newcommand{\myOtherProf}{Put name here\xspace}
+%\newcommand{\mySupervisor}{Put name here\xspace}
+%\newcommand{\myFaculty}{Put data here\xspace}
+%\newcommand{\myDepartment}{Put data here\xspace}
+\newcommand{\myUni}{ Universitat de Barcelona \xspace}
+%\newcommand{\myLocation}{Darmstadt\xspace}
+\newcommand{\myTime}{October 2012\xspace}
+\newcommand{\myVersion}{version 4.0\xspace}
+
+%----------------------------------------------------------------------------------------
+%	USEFUL COMMANDS
+%----------------------------------------------------------------------------------------
+
+\newcommand{\ie}{i.\,e.}
+\newcommand{\Ie}{I.\,e.}
+\newcommand{\eg}{e.\,g.}
+\newcommand{\Eg}{E.\,g.} 
+
+\newcounter{dummy} % Necessary for correct hyperlinks (to index, bib, etc.)
+\providecommand{\mLyX}{L\kern-.1667em\lower.25em\hbox{Y}\kern-.125emX\@}
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES
+%----------------------------------------------------------------------------------------
+
+%\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+
+%------------------------------------------------
+ 
+%\PassOptionsToPackage{latin9}{inputenc} % latin9 (ISO-8859-9) = latin1+"Euro sign"
+%\usepackage{inputenc}
+ 
+\usepackage[utf8x]{inputenc} 
+\usepackage[british]{babel}
+
+ %------------------------------------------------
+
+%\PassOptionsToPackage{ngerman,american}{babel}  % Change this to your language(s)
+% Spanish languages need extra options in order to work with this template
+%\PassOptionsToPackage{spanish,es-lcroman}{babel}
+\usepackage{babel}
+
+
+ 
+ %------------------------------------------------
+
+\PassOptionsToPackage{fleqn}{amsmath} % Math environments and more by the AMS 
+ \usepackage{amsmath}
+ 
+
+% Additional mathematics support
+%\usepackage{amsmath}    % For numering of equations in chapters,
+\usepackage{amssymb}
+
+%IT DOES NOT WORK 
+% Numbering of equations and figures based on chapter structure
+%\numberwithin{equation}{chapter}
+%\numberwithin{figure}{chapter}
+
+
+%bold math symbols
+\usepackage{bm} %use with \pmb
+
+% check this: 
+% $\underset{p.o.}{\underline{[ a \Rightarrow_{(\leq)} b] \equiv [a \wedge \neg_{(\leq)} a \ \leq \ b ]}}$
+
+\newcommand{\po}[1]
+{
+\underset{p.o.}{\underline{\pmb{ #1 }}}
+}
+
+
+
+%define equations by parts:
+
+\newcommand{\twopartdef}[4]
+{
+	\left\{
+		\begin{array}{ll}
+			#1 & \mbox{if } #2 \\
+			#3 & \mbox{if } #4
+		\end{array}
+	\right.
+}
+
+%%example: the absolute value function is defined as: |x| = \twopartdef { x } {x \geq 0} {-x} {x < 0}
+
+
+
+
+ %------------------------------------------------
+
+\PassOptionsToPackage{T1}{fontenc} % T2A for cyrillics
+\usepackage{fontenc}
+
+%------------------------------------------------
+
+\usepackage{xspace} % To get the spacing after macros right
+
+%------------------------------------------------
+
+\usepackage{mparhack} % To get marginpar right
+
+%------------------------------------------------
+
+\usepackage{fixltx2e} % Fixes some LaTeX stuff 
+
+%------------------------------------------------
+
+\PassOptionsToPackage{smaller}{acronym} % Include printonlyused in the first bracket to only show acronyms used in the text
+\usepackage{acronym} % nice macros for handling all acronyms in the thesis
+
+%------------------------------------------------
+
+%\renewcommand*{\acsfont}[1]{\textssc{#1}} % For MinionPro
+%\renewcommand{\bflabel}[1]{{#1}\hfill} % Fix the list of acronyms
+
+%------------------------------------------------
+
+\PassOptionsToPackage{final,pdftex}{graphicx}
+\usepackage{graphicx} 
+
+
+% Graphics inclusion
+\usepackage[final,pdftex]{graphicx}
+%\usepackage[tight]{subfigure}
+
+
+% Color support - dvips color names (see section 7 in Graphics
+% and Color in Latex)
+%\usepackage[dvips]{color}
+%\input{dvipsnam.def}
+
+
+%%solve mess with page numbers:
+\usepackage{nopageno}%http://www.tex.ac.uk/cgi-bin/texfaq2html?label=nopageno
+
+
+%
+% Indexing facilities
+%
+%\usepackage{index}
+
+
+%
+% Acronyms/glossaries typesetting
+%
+%\usepackage{nomencl}
+\usepackage{gloss}
+%
+% Bibliography
+%
+% Natural sciences cite author year etc.
+%\PassOptionsToPackage{square,numbers}{natbib}
+\usepackage{natbib}{\markboth{}{}}
+%\renewenvironment{thebibliography}[1]%
+ %    {\protect{\thispagestyle{empty}}\pagestyle{empty}%
+      %\markboth{}{}%
+%}
+
+%INCOMPATIBLE:
+%\usepackage{biblatex}
+%\bibsetup{\thispagestyle{empty}}
+
+
+% Numerical reference style, see natnotes.pdf for more info
+%\bibpunct{[}{]}{;}{n}{}{,}
+
+%\bibliographystyle{plainnat}
+\bibliographystyle{authordate2}
+
+
+
+%%To get References instead of Bibliography
+%\addto\captionsenglish{\renewcommand{\bibname}{References}}
+%\addto\captionsenglish{\renewcommand{\refname}{References}}
+
+%\renewcommand{\refname}{References}  % for the article class
+%\renewcommand{\bibname}{References}  % for the report or book class
+
+\AtBeginDocument{\renewcommand{\bibname}{References}}
+
+
+%----------------------------------------------------------------------------------------
+%	FLOATS: TABLES, FIGURES AND CAPTIONS SETUP
+%----------------------------------------------------------------------------------------
+
+\usepackage{tabularx} % Better tables
+\setlength{\extrarowheight}{3pt} % Increase table row height
+\newcommand{\tableheadline}[1]{\multicolumn{1}{c}{\spacedlowsmallcaps{#1}}}
+\newcommand{\myfloatalign}{\centering} % To be used with each float for alignment
+\usepackage{caption}
+\captionsetup{format=hang,font=small}
+\usepackage{subfig}  
+
+%----------------------------------------------------------------------------------------
+%	CODE LISTINGS SETUP
+%----------------------------------------------------------------------------------------
+
+%\usepackage{listings} 
+%%\lstset{emph={trueIndex,root},emphstyle=\color{BlueViolet}}%\underbar} % for special keywords
+%\lstset{language=[LaTeX]Tex, % Specify the language for listings here
+%keywordstyle=\color{RoyalBlue}, % Add \bfseries for bold
+%basicstyle=\small\ttfamily, % Makes listings a smaller font size and a different font
+%%identifierstyle=\color{NavyBlue}, % Color of text inside brackets
+%commentstyle=\color{Green}\ttfamily, % Color of comments
+%stringstyle=\rmfamily, % Font type to use for strings
+%numbers=left, % Change left to none to remove line numbers
+%numberstyle=\scriptsize, % Font size of the line numbers
+%stepnumber=5, % Increment of line numbers
+%numbersep=8pt, % Distance of line numbers from code listing
+%showstringspaces=false, % Sets whether spaces in strings should appear underlined
+%breaklines=true, % Force the code to stay in the confines of the listing box
+%%frameround=ftff, % Uncomment for rounded frame
+%frame=single, % Frame border - none/leftline/topline/bottomline/lines/single/shadowbox/L
+%belowcaptionskip=.75\baselineskip % Space after the "Listing #: Desciption" text and the listing box
+%}
+
+
+
+%%better code chunks that in verbatim:
+%\usepackage{alltt}
+\usepackage{listings}
+
+
+\lstset{ %
+language=C++,                % choose the language of the code
+basicstyle=\footnotesize,       % the size of the fonts that are used for the code
+numbers=left,                   % where to put the line-numbers
+numberstyle=\footnotesize,      % the size of the fonts that are used for the line-numbers
+stepnumber=2,                   % the step between two line-numbers. If it's 1 each line 
+                                % will be numbered
+numbersep=5pt,                  % how far the line-numbers are from the code
+% backgroundcolor=\color{white},  % choose the background color. You must add \usepackage{color}
+showspaces=false,               % show spaces adding particular underscores
+showstringspaces=false,         % underline spaces within strings
+showtabs=false,                 % show tabs within strings adding particular underscores
+frame=single,	                % adds a frame around the code
+tabsize=5,	                % sets default tabsize to 2 spaces
+captionpos=b,                   % sets the caption-position to bottom
+breaklines=true,                % sets automatic line breaking
+breakatwhitespace=false,        % sets if automatic breaks should only happen at whitespace
+%title=\lstname,                 % show the filename of files included with \lstinputlisting;
+                                % also try caption instead of title
+%escapeinside={\%*}{*)},         % if you want to add a comment within your code
+%morekeywords={*,...}            % if you want to add more keywords to the set
+}
+
+
+
+
+%----------------------------------------------------------------------------------------
+%	HYPERREFERENCES
+%----------------------------------------------------------------------------------------
+
+\PassOptionsToPackage{pdftex,hyperfootnotes=false,pdfpagelabels}{hyperref}
+\usepackage{hyperref}  % backref linktocpage pagebackref
+\pdfcompresslevel=9
+\pdfadjustspacing=1
+
+\hypersetup{
+% Uncomment the line below to remove all links (to references, figures, tables, etc)
+%draft, %JLJL
+colorlinks=false, linktocpage=true, pdfstartpage=3, pdfstartview=FitV,
+% Uncomment the line below if you want to have black links (e.g. for printing black and white)
+%colorlinks=false, linktocpage=false, pdfborder={0 0 0}, pdfstartpage=3, pdfstartview=FitV, 
+breaklinks=true, pdfpagemode=UseNone, pageanchor=true, pdfpagemode=UseOutlines,
+plainpages=false, bookmarksnumbered, bookmarksopen=true, bookmarksopenlevel=1,
+hypertexnames=true, pdfhighlight=/O, urlcolor=webbrown, linkcolor=RoyalBlue, citecolor=webgreen,
+%------------------------------------------------
+% PDF file meta-information
+pdftitle={\myTitle},
+pdfauthor={\textcopyright\ \myName, \myUni},
+pdfsubject={},
+pdfkeywords={},
+pdfcreator={pdfLaTeX},
+pdfproducer={LaTeX with hyperref and classicthesis}
+%------------------------------------------------
+}   
+
+%----------------------------------------------------------------------------------------
+%	BACKREFERENCES
+%----------------------------------------------------------------------------------------
+
+
+
+\usepackage{ifthen} % Allows the user of the \ifthenelse command
+\newboolean{enable-backrefs} % Variable to enable backrefs in the bibliography
+\setboolean{enable-backrefs}{true} % Variable value: true or false
+
+\newcommand{\backrefnotcitedstring}{\relax} % (Not cited.)
+\newcommand{\backrefcitedsinglestring}[1]{(Cited on page~#1.)}
+\newcommand{\backrefcitedmultistring}[1]{(Cited on pages~#1.)}
+\ifthenelse{\boolean{enable-backrefs}} % If backrefs were enabled
+{
+\PassOptionsToPackage{hyperpageref}{backref}
+\usepackage{backref} % to be loaded after hyperref package 
+\renewcommand{\backreftwosep}{ and~} % separate 2 pages
+\renewcommand{\backreflastsep}{, and~} % separate last of longer list
+\renewcommand*{\backref}[1]{}  % disable standard
+\renewcommand*{\backrefalt}[4]{% detailed backref
+\ifcase #1 
+\backrefnotcitedstring
+\or
+\backrefcitedsinglestring{#2}
+\else
+\backrefcitedmultistring{#2}
+\fi}
+}{\relax} 
+
+%----------------------------------------------------------------------------------------
+%	AUTOREFERENCES SETUP
+%	Redefines how references in text are prefaced for different 
+%	languages (e.g. "Section 1.2" or "section 1.2")
+%----------------------------------------------------------------------------------------
+
+\makeatletter
+\@ifpackageloaded{babel}
+{
+\addto\extrasamerican{
+\renewcommand*{\figureautorefname}{Figure}
+\renewcommand*{\tableautorefname}{Table}
+\renewcommand*{\partautorefname}{Part}
+\renewcommand*{\chapterautorefname}{Chapter}
+\renewcommand*{\sectionautorefname}{Section}
+\renewcommand*{\subsectionautorefname}{Section}
+\renewcommand*{\subsubsectionautorefname}{Section}
+}
+\addto\extrasngerman{
+\renewcommand*{\paragraphautorefname}{Absatz}
+\renewcommand*{\subparagraphautorefname}{Unterabsatz}
+\renewcommand*{\footnoteautorefname}{Fu\"snote}
+\renewcommand*{\FancyVerbLineautorefname}{Zeile}
+\renewcommand*{\theoremautorefname}{Theorem}
+\renewcommand*{\appendixautorefname}{Anhang}
+\renewcommand*{\equationautorefname}{Gleichung}
+\renewcommand*{\itemautorefname}{Punkt}
+}
+\providecommand{\subfigureautorefname}{\figureautorefname} % Fix to getting autorefs for subfigures right
+}{\relax}
+\makeatother
+
+%----------------------------------------------------------------------------------------
+
+\usepackage{classicthesis} 
+
+%----------------------------------------------------------------------------------------
+%	CHANGING TEXT AREA 
+%----------------------------------------------------------------------------------------
+
+%\linespread{1.05} % a bit more for Palatino
+%\areaset[current]{312pt}{761pt} % 686 (factor 2.2) + 33 head + 42 head \the\footskip
+
+
+
+\areaset[current]{342pt}{561pt} % 686 (factor 2.2) + 33 head + 42 head \the\footskip
+
+%for a 6x9 printed format
+%\areaset[current]{3.5in}{8in} 
+
+\setlength{\marginparwidth}{7em}%
+\setlength{\marginparsep}{2em}%
+
+%----------------------------------------------------------------------------------------
+%	USING DIFFERENT FONTS
+%----------------------------------------------------------------------------------------
+
+%\usepackage[oldstylenums]{kpfonts} % oldstyle notextcomp
+%\usepackage[osf]{libertine}
+%\usepackage{hfoldsty} % Computer Modern with osf
+%\usepackage[light,condensed,math]{iwona}
+
+%\renewcommand{\sfdefault}{iwona}
+%\usepackage{lmodern} % <-- no osf support :-(
+%\usepackage[urw-garamond]{mathdesign} <-- no osf support :-(
+
+
+%\usepackage[sc]{mathpazo} % Use the Palatino font
+
+%\usepackage[T1]{fontenc} % Use 8-bit encoding that has 256 glyphs
+%\linespread{1.05} % Line spacing - Palatino needs more space between lines
+%\usepackage{microtype} % Slightly tweak font spacing for aesthetics
+
+%
+% Font
+%
+% cmr computer modern roman
+\renewcommand{\rmdefault}{cmr}
+%\renewcommand{\rmdefault}{sc}
+
+%%%%------------------------------------
+
+% Page length, margin
+%\setlength{\topmargin}{-1cm}
+%\setlength{\textheight}{240mm}
+
+%%\setlength{\textheight}{240mm}
+%%\setlength{\footskip}{1cm}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Fancy-stuff
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\usepackage{fancyhdr}
+%\pagestyle{fancy} 
+%
+%% Dutch style of paragraph formatting, i.e. no indents. 
+\setlength{\parskip}{1.3ex plus 0.2ex minus 0.2ex}
+\setlength{\parindent}{0pt}
+%
+%
+%
+%%\newcommand{\myref}[1]{(\ref{#1})}
+%%\renewcommand{\captionfont}{\em}
+%%\renewcommand{\captionlabelfont}{\em}
+%
+%%\pagestyle{myheadings}
+%%\markboth{}
+%
+%\fancyhead{}  % clear all header fields
+%\fancyfoot{} % clear all footer fields
+%
+
+
+
+%this is moved to the abstract section
+%\renewcommand{\sectionmark}[1]{\markright{\thesection.\ #1}}
+%\rhead{\nouppercase{\rightmark}}
+%\fancyhead[LE]{  Stories in Immersive Technologies }
+%\fancyhead[LO]{ }
+%\fancyhead[RO]{ \rightmark}
+%\renewcommand{\headrulewidth}{0.4pt}
+%\fancyfoot[CO,CE]{\thepage}
+
+%%\renewcommand{\headrulewidth}{0pt}
+%%\renewcommand{\footrulewidth}{0pt}
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%\renewenvironment{quote}
+%  {\list{}{\rightmargin\leftmargin}%
+%   \item\relax\small}
+%  {\endlist}
+
+%for a quote on the uper right side
+\let\origquote\quote
+%\renewcommand*\quote{\origquote\leftmargin15em}
+\renewenvironment{origquote}
+ {\slshape
+  \list{}{ \leftmargin12em}
+   \item\relax }
+  {\endlist}
+
+
+
+
+
+%
+% Correction help
+%
+%\usepackage{showkeys}
+%\usepackage{showlabels}
+
+
+%
+% Example theorem definition
+%
+%\newtheorem{example}{Example}
+
+
+%
+%
+% Command definitions
+%
+%
+
+
+% Color definitions
+\newcommand{\foreigncolor}{MidnightBlue}
+\newcommand{\acronymcolor}{\foreigncolor}
+\newcommand{\todocolor}{Red}
+\newcommand{\suggestioncolor}{Green}
+\newcommand{\codecolor}{Black}
+\newcommand{\codefilecolor}{\codecolor}
+\newcommand{\codetypecolor}{\codecolor}
+\newcommand{\codeconfigcolor}{\codecolor}
+\newcommand{\codecmdcolor}{\codecolor}
+
+
+%\todo - This is what needs to be written
+\newcommand{\todo}[1]{\textcolor[named]{\todocolor}{\textit{#1}}}
+%\newcommand{\todo}[1]{}
+%\suggestion - This are ideas to improve
+\newcommand{\suggestion}[1]{\textcolor[named]{\suggestioncolor}{
+\textit{#1}}}
+
+%\newcommand{\suggestion}[1]{}
+
+
+%\foreign - Mark foreign words in text
+\newcommand{\foreign}[1]{\textcolor[named]{\foreigncolor}{\textit{#1}}}
+
+
+%\acronym - Special formatting for acronyms and auto indexing
+\def\MATLAB{MATLAB\textsuperscript{\textregistered}}
+
+
+%\code - Code names
+\newcommand{\code}[1]{\textcolor[named]{\codecolor}{\texttt{#1}}}
+\newcommand{\codefile}[1]{\textcolor[named]{\codefilecolor}{\bf{\texttt{#1}}}}
+\newcommand{\codetype}[1]{\textcolor[named]{\codetypecolor}{\bf{\texttt{#1}}}}
+\newcommand{\codeconfig}[1]{\textcolor[named]{\codeconfigcolor}{\texttt{#1}}}
+\newcommand{\codecmd}[1]{\textcolor[named]{\codecmdcolor}{\texttt{#1}}}
+
+
+%\secref - Reference to sections
+\newcommand{\secref}[1]{\S\ref{#1}}
+
+
+%
+% Vector notation
+%
+% Unitary vector formatting
+\newcommand{\uvec}[1]{\mathbf{\hat{#1}}}
+% Complex magnitudes formatting
+\newcommand{\cplx}[1]{\tilde{#1}}
+% Vector element formatting
+\newcommand{\VEC}[1]{\mathbf{#1}}
+% Units formatting
+\newcommand{\units}[1]{\mathrm{#1}}
+% Number with units in math format
+\newcommand{\unum}[2]{$#1~\units{#2}$}
+
