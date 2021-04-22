@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Dr Joan Llobera"
   avatar           : "00_bn_joan.png" # "joan_ski.jpg"
-  bio              : "Electrical Engineer, Virtual Reality Scientist and Teacher. Musician (and sometimes Writer) on my free time"
-  location         : "Barcelona"
+  bio              : "Virtual Reality Researcher - Co-Founder, CTO" #"Electrical Engineer, Virtual Reality Scientist and Teacher. Musician (and sometimes Writer) on my free time"
+  location         : "Barcelona & Geneva"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=JOml1uEAAAAJ&hl=ca"
