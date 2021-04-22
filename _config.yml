@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr Joan Llobera"
-  avatar           : "joan_ski.jpg"
+  avatar           : "00_bn_joan.png" # "joan_ski.jpg"
   bio              : "Electrical Engineer, Virtual Reality Scientist and Teacher. Musician (and sometimes Writer) on my free time"
   location         : "Barcelona"
   employer         :
