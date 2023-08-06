@@ -4,11 +4,11 @@ main:
 #  - title: "Talks"
 #    url: /talks/    
 
-  - title: "Courses"
-    url: /teaching/    
+#  - title: "Courses"
+#    url: /teaching/    
 
-  - title: "Publications"
-    url: /publications/
+#  - title: "Publications"
+#    url: /publications/
 
     
 #  - title: "Portfolio"
@@ -17,6 +17,6 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
 
