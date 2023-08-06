@@ -12,9 +12,11 @@ redirect_from:
 I am a Virtual Reality scientist. My research combines software engineering and behavioural experiments. Recently I have been working on bringing Physics-based Character Animation. A list of papers can be found [here](https://scholar.google.com/citations?user=JOml1uEAAAAJ&hl=en).
 
 
+
+
  * [My PhD thesis(2006-2012)](/files/lloberaPhD2012.pdf) was supervised by [Mel Slater](http://www.melslater.me/)  and explored embodiment, social interaction and the creation of Virtual Reality stories based on interactive characters. 
 
- * My Master thesis (2004-2005) was supervised by Daniel Pressnitzer explored auditory perception 
+ * [My Master thesis (2003)](files/memoire.pdf) was supervised by [Daniel Pressnitzer](https://lsp.dec.ens.fr/en/member/661/daniel-pressnitzer) and explored the neural basis of auditory perception using psychoacoustics and magnetoencephalography.
 
 
 ### Courses
@@ -48,5 +50,10 @@ I have created two companies.
 ### Hobbies
 
 In my free time I like [making music](https://joanllobera.bandcamp.com) and [writing](TODO). When I had more free time I also explored [shooting short movies](https://www.youtube.com/watch?v=k1vnQN5SCyc) and writing [movie scripts](/files/Despues-de-Alba.pdf)
+
+
+In 2011 I participated in the creation of an [interactive art installation](files/ombresdellum.html)
+
+In 2020 I directed the creation of a videogame for mobile phones by a group of last year students at [ENTI](https://enti.cat/)
 
 
