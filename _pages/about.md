@@ -13,12 +13,6 @@ I am a Virtual Reality scientist. My research combines software engineering and 
 
 
 
-
- * [My PhD thesis(2006-2012)](/files/lloberaPhD2012.pdf) was supervised by [Mel Slater](http://www.melslater.me/)  and explored embodiment, social interaction and the creation of Virtual Reality stories based on interactive characters. 
-
- * [My Master thesis (2003)](files/memoire.pdf) was supervised by [Daniel Pressnitzer](https://lsp.dec.ens.fr/en/member/661/daniel-pressnitzer) and explored the neural basis of auditory perception using psychoacoustics and magnetoencephalography.
-
-
 ### Courses
 
 Between 2017 and 2020 I created and taught different undergraduate and graduate courses at [ENTI](https://enti.cat/), a university school associated to the [University of Barcelona](https://web.ub.edu/).   You can find the materials for:
@@ -29,6 +23,14 @@ Between 2017 and 2020 I created and taught different undergraduate and graduate 
 * A third year introduction to the algorithms of character animation [here](teaching/animation-foundations/)
 
 In 2021 I taught a course on physics-based character animation at SIGGRAPH, the materials can be found [here](/physics-based/)
+
+
+
+### Thesis
+
+ * [My PhD thesis(2006-2012)](/files/lloberaPhD2012.pdf) was supervised by [Mel Slater](http://www.melslater.me/)  and explored embodiment, social interaction and the creation of Virtual Reality stories based on interactive characters. 
+
+ * [My MSc thesis (2003)](files/memoire.pdf) was supervised by [Daniel Pressnitzer](https://lsp.dec.ens.fr/en/member/661/daniel-pressnitzer) and explored the neural basis of auditory perception using psychoacoustics and magnetoencephalography.
 
 
 ### Open Software projects
