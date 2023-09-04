@@ -8,7 +8,8 @@ date: 2019-02-01
 location: "Barcelona, Spain"
 ---
 
-Videogames and virtual reality often require considerable computer graphics knowledge. During two years I taught a computer graphics course, between 2017 and 2019. I designed the course and took care of most of the classes, except the advanced openGL topics which were taken care by [Jesús Ojeda](https://enti.cat/professors/jesus-ojeda-contreras/){:target="_blank"}. 
+Videogames and virtual reality often require considerable computer graphics knowledge. During two years I taught a computer graphics course, between 2017 and 2019. I designed the course and took care of most of the classes, except the advanced openGL topics which were taken care by [Jesús Ojeda](https://www.linkedin.com/in/jesusojeda/?originalSubdomain=es){:target="_blank"}. 
+
 
 ## 1. Syllabus
 
