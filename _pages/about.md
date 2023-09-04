@@ -24,9 +24,9 @@ Between 2017 and 2020 I created and taught different undergraduate and graduate 
 
 * A second year introduction to computer graphics [here](/teaching/computer-graphics.html){:target="_blank"} 
 
-* A third year introduction to the algorithms of character animation [here](teaching/animation-foundations.html){:target="_blank"}
+* A third year introduction to the algorithms of character animation [here](/teaching/animation-foundations.html){:target="_blank"}
 
-In 2021 I taught a course on physics-based character animation at SIGGRAPH, the materials can be found [here](/physics-based.html){:target="_blank"}
+In 2021 I taught a course on physics-based character animation at SIGGRAPH, the materials can be found [here](/teaching/physics-based.html){:target="_blank"}
 
 
 

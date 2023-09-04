@@ -8,21 +8,14 @@ date: 2019-02-01
 location: "Barcelona, Spain"
 ---
 
-Videogames and virtual reality often require considerable computer graphics knowledge. During two years I taught a computer graphics course, between 2017 and 2019. I designed the course and took care of most of the classes, except the advanced openGL topics which were taken care by [Jesús Ojeda](https://www.linkedin.com/in/jesusojeda/?originalSubdomain=es){:target="_blank"}. 
+Videogames and virtual reality often require considerable computer graphics knowledge. During two years I taught a computer graphics course (2017 -- 2019). I designed the course and took care of most of the classes, except the advanced openGL topics which were taken care by [Jesús Ojeda](https://www.linkedin.com/in/jesusojeda/?originalSubdomain=es){:target="_blank"}. 
 
 
 ## 1. Syllabus
 
 You can find here all the materials used to teach a course lasting 15-16 weeks, with 4 hours or class per week.
- The course is organized in four blocks:
- 1. **3D Rotations** , mainly on Quaternion and Axis Angle representations 
- 2. **GIT and programming habits**, focusing on git flow methodology, writing conventions and functionality encapsulation
- 3. Direct and Inverse Kinematics, addressing Gradient Descent, CCD and FABRIK 
- 4. Animation, which includes an introduction to Motion Builder, to Unity3D's Mecanim and a review of physics for animation
+
  
- The materials used are listed below:
- 
-| Block 1            | 3D Rotations   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
 | 01    | [Introduction](computer-graphics/01.ComputerGraphics.Introduction.pdf)                           | A general introduction          |
 | 02    | [OpenGL](computer-graphics/02.ComputerGraphics.Intro2OpenGL.pdf)                            | What is OpenGL?      |
