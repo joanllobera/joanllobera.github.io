@@ -22,11 +22,11 @@ I am a Virtual Reality scientist. My research combines software engineering and 
 Between 2017 and 2020 I created and taught different undergraduate and graduate courses at [ENTI](https://enti.cat/), a university school associated to the [University of Barcelona](https://web.ub.edu/).   You can find the materials for:
 
 
-* A second year introduction to computer graphics [here](/teaching/computer-graphics/) 
+* A second year introduction to computer graphics [here](/teaching/computer-graphics.html) 
 
-* A third year introduction to the algorithms of character animation [here](teaching/animation-foundations/)
+* A third year introduction to the algorithms of character animation [here](teaching/animation-foundations.html)
 
-In 2021 I taught a course on physics-based character animation at SIGGRAPH, the materials can be found [here](/physics-based/)
+In 2021 I taught a course on physics-based character animation at SIGGRAPH, the materials can be found [here](/physics-based.html)
 
 
 
@@ -59,7 +59,7 @@ I have created two companies.
 When I have free time I like [making music](https://joanllobera.bandcamp.com) and writing short stories (*examples coming soon*). When I had more free time I also explored [shooting short movies](https://www.youtube.com/watch?v=k1vnQN5SCyc) and writing [movie scripts](/files/Despues-de-Alba.pdf).  Occasionally I also spend time doing photos.
 <div class="gallery"><a href="./images/perso/revolucio_cuba2 170.jpg" title="La moral de la revolución"> <img class="thumbnail-photo" src="images/perso/moral_revo_thumb.jpg" alt="La moral de la revolución." /> </a> 
 
-<a href="./images/perso/vaca_IMG_0014.jpg" title="Una vaca"><img class="thumbnail-photo" src="images/perso/vaca_thumb.jpg" alt="Una vaca mirant a càmera." /></a>
+<a href="./images/perso/vaca_IMG_0014_medium.jpg" title="Una vaca"><img class="thumbnail-photo" src="images/perso/vaca_thumb.jpg" alt="Una vaca mirant a càmera." /></a>
 
  <a href="./images/perso/karin.jpg" title="Karin"><img class="thumbnail-photo" src="images/perso/karin_thumb.jpg" alt="Foto per a Después de Alba." /></a>
 
@@ -67,7 +67,7 @@ When I have free time I like [making music](https://joanllobera.bandcamp.com) an
 </div>
 
 
-In 2011 I participated in the creation of an [interactive art installation](files/ombresdellum.html).
+In 2011 I participated in the creation of an [interactive art installation](files/ombresdellum/index.html).
 
 In 2020 I directed a [videogame prototype](https://joanllobera.github.io/sonthegame/) that worked in mobile phones and VR headsets. It was implemented by a group of last year students at [ENTI](https://enti.cat/).
 
