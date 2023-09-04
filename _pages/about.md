@@ -32,9 +32,11 @@ In 2021 I taught a course on physics-based character animation at SIGGRAPH, the 
 
 ### Thesis
 
- * [My PhD thesis(2006-2012)](/files/lloberaPhD2012.pdf) was supervised by [Mel Slater](http://www.melslater.me/)  and explored embodiment, social interaction and the creation of Virtual Reality stories based on interactive characters. 
+ *  <a href="./files/lloberaPhD2012.pdf" target="_blank" title="PhD">My PhD thesis(2006-2012) </a>  was supervised by [Mel Slater](http://www.melslater.me/)  and explored embodiment, social interaction and the creation of Virtual Reality stories based on interactive characters. 
 
- * [My MSc thesis (2003)](files/memoire.pdf) was supervised by [Daniel Pressnitzer](https://lsp.dec.ens.fr/en/member/661/daniel-pressnitzer) and explored the neural basis of auditory perception using psychoacoustics and magnetoencephalography.
+ 
+*  <a href="./files/memoire.pdf" target="_blank" title="MSc"> My MSc thesis (2003) </a>
+ was supervised by [Daniel Pressnitzer](https://lsp.dec.ens.fr/en/member/661/daniel-pressnitzer) and explored the neural basis of auditory perception using psychoacoustics and magnetoencephalography.
 
 
 ### Open Software projects
