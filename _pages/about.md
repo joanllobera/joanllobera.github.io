@@ -43,17 +43,18 @@ In 2021 I taught a course on physics-based character animation at SIGGRAPH, the 
 
 I have contributed to two significant software projects in the past.
 
-* An implementation of Behaviour Networks for Unity3D *to be published when I have the time*.
+
 
 * A framework to create Physics-based Interactive Characters in Unity3D. A first version in Physx called [Marathon Environments](https://joanllobera.github.io/marathon-envs){:target="_blank"}. Later, it  was succeded by [Modular Agents](https://github.com/Balint-H/modular-agents){:target="_blank"}  a more mature framework based on MuJoCo, developed with Balint Hodossy.
 
+* An implementation of Behaviour Networks for Unity3D *to be published when I have the time*.
 
 ### Startups
 
 I have created two companies. 
-* I founded [Timepath](http://timepath.io/){:target="_blank"} (2014-2018) as an attempt to  materialize my vision of VR experiences based on embodied social interactive characters created through role-playing. 
+* I founded [Timepath](/timepath-archive){:target="_blank"} (2014-2018) as an attempt to  materialize my vision of VR experiences based on embodied social interactive characters created through role-playing. 
 
-* I co-founded [IZI Record](http://izirecord.com/){:target="_blank"} (2020 - present) to materialize an idea to transform mobile-based video creation into a social activity, in the context of recording live music.  
+* I co-founded [IZI Record](http://izirecord.com/){:target="_blank"} (2020 - 2025) to transform mobile video creation into a social activity, with a focus on people attending and recording live music concerts ([here](https://youtube.com/playlist?list=PL9NgqHyV61ZaTcjZ2270WLvHeVXEVIZ_e&si=o_vHSEmQDLB31Pd4){:target="_blank"} are some examples of videos). 
 
 
 ### Hobbies
