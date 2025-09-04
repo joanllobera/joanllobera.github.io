@@ -54,7 +54,7 @@ I have contributed to two significant software projects in the past.
 I have created two companies. 
 * I founded [Timepath](/timepath-archive){:target="_blank"} (2014-2018) as an attempt to  materialize my vision of VR experiences based on embodied social interactive characters created through role-playing. 
 
-* I co-founded [IZI Record](http://izirecord.com/){:target="_blank"} (2020 - 2025) to transform mobile video creation into a social activity, with a focus on people attending and recording live music concerts ([here](https://youtube.com/playlist?list=PL9NgqHyV61ZaTcjZ2270WLvHeVXEVIZ_e&si=o_vHSEmQDLB31Pd4){:target="_blank"} are some examples of videos). 
+* I co-founded [IZI Record](http://izirecord.com/){:target="_blank"} (2020 - 2025) to transform mobile video creation into a social activity, using deep learning to edit automatically videos recorded by different people in music concerts ([some examples](https://youtube.com/playlist?list=PL9NgqHyV61ZaTcjZ2270WLvHeVXEVIZ_e&si=o_vHSEmQDLB31Pd4){:target="_blank"}). 
 
 
 ### Hobbies
