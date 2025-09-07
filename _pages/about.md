@@ -32,11 +32,11 @@ In 2021 I taught a course on physics-based character animation at SIGGRAPH, the 
 
 ### Thesis
 
- *  <a href="./files/lloberaPhD2012.pdf" target="_blank" title="PhD">My PhD thesis(2006-2012) </a>  was supervised by [Mel Slater](http://www.melslater.me/)  and explored embodiment, social interaction and the creation of Virtual Reality stories based on interactive characters. 
+ *  <a href="./files/lloberaPhD2012.pdf" target="_blank" title="PhD">My PhD thesis(2006-2012) </a>  was supervised by [Mel Slater](http://www.melslater.me/){:target="_blank"}  and explored embodiment, social interaction and the creation of Virtual Reality stories based on interactive characters. 
 
  
 *  <a href="./files/memoire.pdf" target="_blank" title="MSc"> My MSc thesis (2003) </a>
- was supervised by [Daniel Pressnitzer](https://lsp.dec.ens.fr/en/member/661/daniel-pressnitzer) and explored the neural basis of auditory perception using psychoacoustics and magnetoencephalography.
+ was supervised by [Daniel Pressnitzer](https://lsp.dec.ens.fr/en/member/661/daniel-pressnitzer){:target="_blank"} and explored the neural basis of auditory perception using psychoacoustics and magnetoencephalography.
 
 
 ### Open Software projects
@@ -47,7 +47,7 @@ I have contributed to two significant software projects in the past.
 
 * A framework to create Physics-based Interactive Characters in Unity3D. A first version in Physx called [Marathon Environments](https://joanllobera.github.io/marathon-envs){:target="_blank"}. Later, it  was succeded by [Modular Agents](https://github.com/Balint-H/modular-agents){:target="_blank"}  a more mature framework based on MuJoCo, developed with Balint Hodossy.
 
-* An implementation of Behaviour Networks for Unity3D *to be published when I have the time*.
+* An implementation of Behaviour Networks for Unity3D can be found [on this repository](https://github.com/joanllobera/simple-behaviour-networks){:target="_blank"}.
 
 ### Startups
 
